@@ -25,6 +25,11 @@ git clone url
 dileo.francoj@gmail.com
 frandileo@frba.utn.edu.ar (no le doy bola)
 
+
+PARA DESHACER CAMBIOS QUE NO AGREGAMOS AL REPO NI COMMITEAMOS
+
+git checkout -- nombreDelArchivo.extension
+
 https://github.com/dileofrancoj/PWM_VERANO
 
 
